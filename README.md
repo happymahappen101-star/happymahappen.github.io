@@ -1,181 +1,332 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CASEYRHODES%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
-
-
-> **`Updated` Ãbùtïïëy Mahappen
-
-## CONTACT Ãbùtïïëy Mahappen TECH
-  
-<a href="https://wa.me/254112192119"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/caseyweb/NHEZHO-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="CASEYRHODES "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
-</p>
-
-
-# Ãbùtïïëy Mahappen LOF bot.❤️
-
-[![Sponsor Caseyrhodes](https://img.shields.io/badge/Sponsor-caseyweb-important)](https://github.com/sponsors/caseyweb)
-
-
-<p align="center">
-  <a href="https://github.com/caseyweb">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=CASEY+RHODES+XMD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="caseywebReadme">
-  </a>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/caseyweb"><img title="Author" src="https://files.catbox.moe/y3j3kl.jpg?style=for-the-badge&logo=github"></a>
-
-
-
-***
-
-<p align="center">
-  <a href="https://github.com/caseyweb"><img title="Developer" src="https://img.shields.io/badge/Author-casey%20web-purple.svg?style=for-the-badge&logo=github" /></a>
-</p>
-
-<div align="center">
-  
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E)
-</div>
-
-
-<p align="center">
-  <a href="https://github.com/caseyweb/CASEYRHODES-XMD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
-
----
-
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+CASEYRHODES+XMD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+CASEYRHODES;🚀+CASEYRHODES-XMD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
-</h1>
-
-### 1. Fork This Repository
-
-Start by forking this repository to your own GitHub account. Click the button below to fork:
-
-  <a href="https://github.com/caseyweb/CASEYRHODES-XMD/fork"><img title="CASEYRHODES-XMD" src="https://img.shields.io/badge/FORK-CASEY%20RHODES%20XMD-h?color=purple&style=for-the-badge&logo=github"></a>
-
-### 2. GET SESSION ID SERVER 
-
-You will need a session ID to run CASEYRHODES-XMD. Click the button below to obtain your session ID:
-
-<a href='https://peace-hub-pvhd.vercel.app/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
-</a>
-<br>
-
-
-
----
-
-<h2 align="center">𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍</h2>
-
----
-
-
-<h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
-<p align="left">
-<a href='https://caseydev.netlify.app/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-</p>
-
-<h4 align="left">2. 𝐊𝐎𝐘𝐄𝐁</h4>
-<p align="left">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=caseyweb/CASEYRHODES-XMD&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-</p>
-
-<h4 align="left">3. 𝐑𝐀𝐈𝐋𝐖𝐀𝐘𝐒</h4>
-<p align="left">
-<a href='https://railway.app/new' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Railway%20Deploy-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
-</p>
-
-<h4 align="left">4. 𝐑𝐄𝐍𝐃𝐄𝐑</h4>
-<p align="left">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render%20Deploy-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-</p>
-
-<h4 align="left">5. 𝐍𝐄𝐓𝐋𝐈𝐅𝐘</h4>
-<p align="left">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify%20Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/></a>
-</p>
-
-<h4 align="left">6. 𝐑𝐄𝐏𝐋𝐈𝐓</h4>
-<p align="left">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit%20Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/></a>
-</p>
-
----
-
-
-  <a href="https://deployment-yr-nui9.vercel.app/"><img title="DEPLOY-NOW" src="https://img.shields.io/badge/DEPLOY-NOW-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
-
-
-## 🔗 CASEYRHODES XMD Info
-
-  <p align="center">
-<a href="https://github.com/caseyweb/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/CASEYRHODES-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/CASEYRHODES-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/caseyweb/CASEYRHODES-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/caseyweb/CASEYRHODES-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
-  
----
-
-<h2 align="left">⚠️ Reminder</h2>
-<p align="center">
-
-- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
-- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
-- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
-
----
-
-<h2 align="left">ℹ️ Notice</h2>
-<p align="center">
-  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
-
-
-
-
-<p align="center">
-    <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
-        <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-</p>
-
-## CASEYRHODES SUPPORT 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=CASEYRHODES TECH" alt="Typing SVG" /></a>
-  </p>
-
-
-## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
-
-
- <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
- 
-
- <br>
-<h2 align="center"> ⚠️ Warning ⚠️
- </h2>
-
----
-
-<h3 align="center"> Don't Copy Without Permission </h3>
-
-<br>
-
-
-  
-<p align="center">
-  
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26)
-
---------
-
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Abutiieeyy Mahappen— WhatsApp Bot</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&family=Source+Code+Pro:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome for icons -->
+  <script src="https://kit.fontawesome.com/7b7b7b7b7b.js" crossorigin="anonymous"></script>
+
+  <style>
+    :root{
+      --bg:#f8fafb;
+      --muted:#7b7f86;
+      --accent:#6c5ce7;
+      --card:#ffffff;
+      --rounded:14px;
+      --max:980px;
+      --glass: rgba(255,255,255,0.6);
+      --shadow: 0 6px 22px rgba(12,18,28,0.08);
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: "Montserrat",system-ui,-apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      background:linear-gradient(180deg,#f6f9fb, #ffffff 60%);
+      color:#222;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+      padding:24px;
+      display:flex;
+      justify-content:center;
+    }
+
+    .wrap{
+      width:100%;
+      max-width:var(--max);
+    }
+
+    header.hero{
+      background: linear-gradient(90deg, rgba(108,92,231,0.95), rgba(78,68,178,0.92));
+      color:white;
+      border-radius:var(--rounded);
+      padding:22px;
+      box-shadow:var(--shadow);
+      display:flex;
+      gap:18px;
+      align-items:center;
+      margin-bottom:20px;
+    }
+    .hero .brand{
+      flex:1;
+    }
+    .brand h1{
+      margin:0;
+      font-size:20px;
+      letter-spacing:1px;
+      font-weight:800;
+    }
+    .brand p{
+      margin:6px 0 0 0;
+      opacity:0.95;
+      font-size:13px;
+    }
+
+    .author-badges{
+      display:flex;
+      gap:8px;
+      align-items:center;
+    }
+    .badge{
+      background:rgba(255,255,255,0.12);
+      padding:6px 10px;
+      border-radius:8px;
+      font-weight:600;
+      font-size:13px;
+      display:inline-flex;
+      gap:8px;
+      align-items:center;
+    }
+
+    main.card{
+      background:var(--card);
+      border-radius:14px;
+      padding:18px;
+      box-shadow:var(--shadow);
+    }
+
+    .row-social{
+      display:flex;
+      gap:10px;
+      align-items:center;
+      margin:8px 0 16px 0;
+    }
+    .social{
+      width:44px;height:44px;border-radius:50%;
+      display:inline-grid;place-items:center;font-size:18px;
+      background:linear-gradient(180deg,#e6f7ee,#c7f0d8);
+      box-shadow:0 4px 14px rgba(12,18,28,0.06);
+    }
+    .social.instagram{background:linear-gradient(180deg,#ffd6e0,#ffb3d0)}
+    .social.facebook{background:linear-gradient(180deg,#d8e8ff,#b5d6ff)}
+    .social.dev{background:linear-gradient(180deg,#fff3c9,#ffd77a)}
+    .social.twitter{background:linear-gradient(180deg,#dff2ff,#bfe9ff)}
+
+    h2.title{
+      margin:6px 0 4px;
+      font-size:34px;
+      letter-spacing:-0.5px;
+      line-height:1.02;
+    }
+    .sponsor{
+      display:inline-block;
+      margin-top:6px;
+      background:#f2f2f2;
+      color:#333;
+      padding:6px 10px;
+      border-radius:8px;
+      font-weight:600;
+      font-size:13px;
+    }
+    .lead{
+      font-family: "Source Code Pro", monospace;
+      color:var(--accent);
+      margin:14px 0;
+      letter-spacing:1px;
+      font-size:18px;
+    }
+
+    .hero-image{
+      width:100%;
+      height:220px;
+      border-radius:12px;
+      background:linear-gradient(180deg,#111 0%, #666 100%);
+      background-image: url('https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=000');
+      background-size:cover;
+      background-position:center;
+      margin:12px 0 18px;
+      overflow:hidden;
+    }
+
+    /* stats badges */
+    .stats{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0 18px}
+    .pill{
+      background:#f2f2f2;padding:8px 10px;border-radius:8px;font-weight:700;font-size:13px;color:#333;
+      display:inline-flex;gap:8px;align-items:center;
+    }
+    .pill.green{background:#d9f6d9;color:#1b7a2a}
+    .pill.blue{background:#e9f3ff;color:#1462a6}
+
+    /* deployment grid */
+    .deploy-grid{
+      display:grid;
+      grid-template-columns: repeat(auto-fit,minmax(180px,1fr));
+      gap:12px;
+      margin:14px 0 22px;
+    }
+    .deploy-btn{
+      display:flex;align-items:center;gap:12px;padding:12px;border-radius:10px;font-weight:700;
+      color:white;text-decoration:none;justify-content:center;box-shadow:0 6px 18px rgba(12,18,28,0.06)
+    }
+    .heroku{background:#6b1b83}
+    .koyeb{background:#8fd44a;color:#072b12}
+    .railway{background:#e36b4f}
+    .render{background:#111}
+    .netlify{background:#1578b3}
+    .replit{background:#1290d8}
+    .deploy-now{display:flex;justify-content:center;gap:10px;align-items:center;padding:12px;border-radius:10px;overflow:hidden}
+
+    .deploy-now .left{background:#5c6770;color:white;padding:10px 16px;border-radius:8px 0 0 8px}
+    .deploy-now .right{background:#b9dd2b;color:#10210a;padding:10px 18px;border-radius:0 8px 8px 0;font-weight:800}
+
+    hr.sep{border:0;border-top:1px solid #e8e8e8;margin:20px 0}
+
+    .reminder{
+      border-left:4px solid #f2c94c;padding:14px;background:#fff9e6;border-radius:8px;
+    }
+    .notice{
+      background:#f6f8ff;padding:14px;border-radius:8px;border-left:4px solid #9fb7ff;margin-top:12px;
+    }
+
+    .action-support{
+      display:flex;gap:12px;align-items:center;margin-top:14px;flex-wrap:wrap;
+    }
+    .whatsapp-btn{
+      background:#25D366;color:white;padding:10px 16px;border-radius:8px;text-decoration:none;font-weight:800;display:inline-flex;gap:10px;align-items:center;
+      box-shadow:0 8px 28px rgba(37,211,102,0.12);
+    }
+
+    footer{
+      margin-top:22px;padding:12px;text-align:center;color:var(--muted);font-size:14px;
+    }
+
+    /* responsive tweaks */
+    @media (max-width:520px){
+      h2.title{font-size:28px}
+      .hero{padding:16px;flex-direction:column;align-items:flex-start;gap:10px}
+      .hero .brand p{font-size:12px}
+      .hero-image{height:180px}
+    }
+
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero" role="banner" aria-label="Abutiieeyy Mahappen WhatsApp bot">
+      <div class="brand">
+        <h1>Abutiieeyy Mahappen WHATSAPP BOT</h1>
+        <p>Powering your WhatsApp • Bots • Plugins • Deploy guides</p>
+      </div>
+      <div class="author-badges" aria-hidden="true">
+        <span class="badge"><i class="fas fa-user"></i> CASEYWEB</span>
+        <span class="badge"><i class="fas fa-code-branch"></i> v2.0</span>
+      </div>
+    </header>
+
+    <main class="card" role="main">
+      <div class="row-social" aria-hidden="true">
+        <a class="social whatsapp" href="#" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+        <a class="social instagram" href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
+        <a class="social facebook" href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+        <a class="social dev" href="#" title="DEV"><i class="fab fa-dev"></i></a>
+        <a class="social twitter" href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+      </div>
+
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap">
+        <div>
+          <h2 class="title">Âbùtiïèy Mahappen LOF bot. <span style="font-size:20px">❤️</span></h2>
+          <div class="sponsor">Sponsor <strong style="background:#ff7f50;color:white;padding:4px 8px;border-radius:6px;margin-left:8px;font-weight:800">caseyweb</strong></div>
+          <div class="lead">Powering Your WhatsApp</div>
+        </div>
+        <div style="min-width:110px;text-align:right">
+          <!-- small stats pills -->
+          <div style="display:flex;flex-direction:column;gap:6px;align-items:flex-end">
+            <span class="pill">followers <strong style="margin-left:6px">113</strong></span>
+            <span class="pill blue">stars <strong style="margin-left:6px">94</strong></span>
+            <span class="pill green">repo size <strong style="margin-left:6px">5.1 MiB</strong></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-image" role="img" aria-label="hero image"></div>
+
+      <hr class="sep" />
+
+      <section aria-labelledby="deployHeading">
+        <h3 id="deployHeading" style="font-size:20px;margin:0 0 12px;font-weight:800;color:#111">DEPLOYMENT SECTION</h3>
+
+        <div class="deploy-grid" role="list">
+          <a class="deploy-btn heroku" role="listitem" href="#" title="Heroku deploy">
+            <i class="fab fa-heroku" style="font-size:20px"></i> HEROKU DEPLOY
+          </a>
+
+          <a class="deploy-btn koyeb" role="listitem" href="#" title="Koyeb deploy">
+            <i class="fas fa-server" style="font-size:18px;color:rgba(0,0,0,0.6)"></i> KOYEB DEPLOY
+          </a>
+
+          <a class="deploy-btn railway" role="listitem" href="#" title="Railway deploy">
+            <i class="fas fa-train" style="font-size:18px"></i> RAILWAY DEPLOY
+          </a>
+
+          <a class="deploy-btn render" role="listitem" href="#" title="Render deploy">
+            <i class="fas fa-wrench" style="font-size:18px"></i> RENDER DEPLOY
+          </a>
+
+          <a class="deploy-btn netlify" role="listitem" href="#" title="Netlify deploy">
+            <i class="fas fa-cloud" style="font-size:18px"></i> NETLIFY DEPLOY
+          </a>
+
+          <a class="deploy-btn replit" role="listitem" href="#" title="Replit deploy">
+            <i class="fas fa-terminal" style="font-size:18px"></i> REPLIT DEPLOY
+          </a>
+        </div>
+
+        <div style="display:flex;justify-content:center;margin-top:8px">
+          <div class="deploy-now" role="button" aria-pressed="false">
+            <div class="left">DEPLOY</div>
+            <div class="right">NOW</div>
+          </div>
+        </div>
+      </section>
+
+      <hr class="sep" />
+
+      <section aria-labelledby="infoHeading">
+        <h3 id="infoHeading" style="font-size:20px;margin:0 0 8px;font-weight:800">CASEYRHODES XMD Info</h3>
+
+        <div class="stats" aria-hidden="true">
+          <span class="pill">followers <strong>113</strong></span>
+          <span class="pill blue">stars <strong>94</strong></span>
+          <span class="pill">forks <strong>463</strong></span>
+          <span class="pill green">Maintained? <strong>yes</strong></span>
+        </div>
+
+        <div class="reminder" role="note" aria-label="Warning">
+          <strong>⚠️ Reminder</strong>
+          <p style="margin:8px 0 0;color:#333;line-height:1.5">
+            <strong>Disclaimer:</strong> This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misusing the bot may result in your WhatsApp account being banned. You can only unban your account once. I am not responsible for bans or misuse. Please keep this warning in mind before proceeding.
+          </p>
+        </div>
+
+        <div class="notice" role="note" aria-label="Notice">
+          <strong>ℹ️ Notice</strong>
+          <p style="margin:8px 0 0;color:#2b2b2b;line-height:1.5">
+            Not for sale — If any plugin's code is obfuscated, you do not have permission to edit it. Please give credit if you reuse or reupload plugins/files.
+          </p>
+        </div>
+
+        <div class="action-support">
+          <a class="whatsapp-btn" href="#" title="Support group">
+            <i class="fab fa-whatsapp"></i>
+            SUPPORT GROUP
+          </a>
+
+          <a class="whatsapp-btn" style="background:linear-gradient(90deg,#3dbb3d,#25d366)" href="#" title="WhatsApp channel">
+            <i class="fab fa-whatsapp"></i>
+            OUR WHATSAPP CHANNEL
+          </a>
+        </div>
+      </section>
+
+      <footer>
+        <div>This site is open source. Improve this page.</div>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
