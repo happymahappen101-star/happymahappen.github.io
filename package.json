@@ -1,12 +1,12 @@
 {
-  "name": "CASEYRHODES-MD",
-  "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Caseyrhodes",
+  "name": "Ãbùtïïëy Mahappen",
+  "version": "2.0.9",
+  "description": "A WhatsApp Bot Created By Ãbùtïïëy Mahappen𓃶",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CASEYRHODES-XMD",
-    "stop": "pm2 stop CASEYRHODES-XMD",
-    "restart": "pm2 restart CASEYRHODES-XMD"
+    "start": "pm1 start index.js --deep-monitoring --attach --name Ãbùtïïëy Mahappen",
+    "stop": "pm1 stop Ãbùtïïëy Mahappen",
+    "restart": "pm1 restart Ãbùtïïëy Mahappen𓃶"
   },
   "dependencies": {
    "@whiskeysockets/baileys": "^6.7.18",
