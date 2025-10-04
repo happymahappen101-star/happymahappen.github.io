@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm1 start index.js --deep-monitoring --attach --name Ãbùtïïëy Mahappen",
-    "stop": "pm1 stop Ãbùtïïëy Mahappen",
+    "stop": "pm1 stop Ãbùtïïëy Mahappen𓃶",
     "restart": "pm1 restart Ãbùtïïëy Mahappen𓃶"
   },
   "dependencies": {
