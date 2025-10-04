@@ -1,15 +1,15 @@
 
 {
-    "bot-name": "CASEYRHODES XMD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Caseyrhodes",
-    "logo": "https://i.ibb.co/WNzz5RJV/lordcasey.jpg",
+    "bot-name": "Ãbùtïïëy Mahappen𓃶",
+    "description": "Baileys Whatsapp bot By Mahappen",
+    "logo": "https://i..co/WNzz5RJV/lordcasey.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://pairs-rzev.onrender.com/",
-    "owner-verification": "caseywebsthedonn25@gmail.com",
+    "documentation-link": "",
+    "owner-verification": "happymahappen101@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with Caseyrhodes~  or get session id from here,  https://pairs-rzev.onrender.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts with Mahappen~
         "value":"",
         "required": true
         
@@ -25,7 +25,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "x-𝚆.𝙰 𝙱𝙾𝚃"
+      "value": "-❤️‍🩹𝙼𝙰𝙷𝙰𝙿𝙿𝙴𝙽 𝙱𝙾𝚃"
   
     },
     
@@ -77,27 +77,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*caseyrhodes 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*Ãbùtïïëy Mahappen𓃶 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🫵"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐅𝐫𝐚𝐧𝐤"
+      "value": "Ãbùtïïëy Mahappen𓃶"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254719646303"
+      "value": "27783650928"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "Ãbùtïïëy Mahappen𓃶"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*"
+      "value": "*® Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Mʀ Dɪᴇʜᴀʀᴅ LOF*"
     },
 
       "DELETE_LINKS": {
@@ -154,7 +154,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💝,🥹,💗,🔥,❤️,😹,💛,🥺,💙,🙄,🤎,🫵,🤍"
     
     }, 
 
