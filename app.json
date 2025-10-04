@@ -1,8 +1,8 @@
 {
-  "name": "CASEYRHODES-XMD",
-  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Caseyrhodes tech",
+  "name": "Ãbùtïïëy Mahappen LOF",
+  "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Ãbùtïïëy Mahappen",
   "logo": "https://files.catbox.moe/vcdwmp.jpg",
-  "keywords": ["CASEYRHODES-XMD"],
+  "keywords": ["Ãbùtïïëy Mahappen LOF"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,12 +16,11 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "Ãbùtïïëy Mahappen"
     }, 
       
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
+      "description": "+234
       "value": "."
     },
     
@@ -70,7 +69,7 @@
     }, 
 
     "AUTO_STATUS_REPLY": {
-      "description": "Make it true for auto reply msg on status seen.",
+      "description": "Make it true for auto reply message on status seen.",
       "required": true,
       "value": "false"
     }, 
@@ -78,14 +77,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY CASEYRHODES TECH 🇰🇪*"
+      "value": "*SEEN YOUR STATUS BY Ãbùtïïëy Mahappen 🇿🇦"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "CASEYRHODES-TECH"
+      "value": "Ãbùtïïëy Mahappen LOF"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +97,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "Ãbùtïïëy-Mahappn"
 
       }, 
 
@@ -174,7 +173,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💀,💖,🥴,❤️‍🩹,🫂,🧡,😹,💚,🥹,💜,🥺,🖤,🙄"
     }, 
     
     "ANTI_DEL_PATH": {
@@ -209,9 +208,9 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "https://"
         }
      ],
-  "stack": "heroku-24"
+  "stack": "Ãbùtïïëy"
 }
   
