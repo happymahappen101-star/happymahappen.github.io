@@ -1,10 +1,10 @@
 
 services:
   - type: web
-    name: CASEYRHODES-XMD
+    name: Ãbùtïïëy Mahappen 
     env: node
     plan: free
-    repo: https://github.com/caseyweb/CASEYRHODES-XMD
+    repo: https://happymahappen101-star.github.io/happymahappen.github.io/
     branch: main
     buildCommand: npm install
     startCommand: npm start
